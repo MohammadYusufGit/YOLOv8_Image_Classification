@@ -1,0 +1,16 @@
+dataset_2/test/Airplane/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/test/car/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/test/Horse/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/test/motorcycle/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/test/Zebra/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/train/Airplane/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/train/car/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/train/Horse/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/train/motorcycle/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/train/Zebra/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/val/Airplane/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/val/car/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/val/Horse/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/val/motorcycle/*.jpg filter=lfs diff=lfs merge=lfs -text
+dataset_2/val/Zebra/*.jpg filter=lfs diff=lfs merge=lfs -text
+runs/ filter=lfs diff=lfs merge=lfs -text
